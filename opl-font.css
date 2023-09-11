@@ -1,0 +1,15 @@
+@font-face {
+            font-family: 'Alibaba-PuHuiTi_Regular';
+            font-display:swap;
+            src: url('./static/Alibaba-PuHuiTi-Regular.ttf') format("truetype");
+            }
+@font-face {
+            font-family: 'QingSongShouXieTiEr_Regular';
+            font-display:swap;
+            src: url('./static/清松手写体2.ttf') format("truetype");
+            }
+@font-face {
+            font-family: 'AlimamaFangYuanTiVF-Thin';
+            font-display:swap;
+            src: url('./static/AlimamaFangYuanTiVF-Thin.ttf') format("truetype");
+            }
